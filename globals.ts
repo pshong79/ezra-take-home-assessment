@@ -1,0 +1,4 @@
+export const CREDIT_CARD_NUMBER = '4242424242424242'
+export const CREDIT_CARD_EXPIRATION = '1234'
+export const CREDIT_CARD_CVC = '123'
+export const CREDIT_CARD_ZIP = '12345'
